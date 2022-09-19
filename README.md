@@ -1,6 +1,6 @@
 # Que horas é?
 
-![preview](./imagens/preview.png)
+![preview](./Imagens/preview.png)
 
 Projeto realizado no curso Curso de JavaScript do canal Curso em video.  <br />
 Instrutor: Guanabara
